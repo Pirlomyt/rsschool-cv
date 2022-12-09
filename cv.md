@@ -1,6 +1,5 @@
 
-
- <img src="IMG_1145.JPEG" alt="The Pulpit Rock" width="304" height="228">
+ [<img src="IMG_1145.JPEG" width="304" height="228"/>](IMG_1145.JPEG)
 
 # **Aleksandr Pirozerskiy**                         
 
