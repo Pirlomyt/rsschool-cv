@@ -11,15 +11,44 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
-<body>
-  <header class = "header">
-    <p>Проверочный текст</p>
+<body style="min-height: 100vh; margin: 0px; padding: 0;">
+  <header class = "header";>
+    <nav class="nav">
+      <ul class="nav-list">
+        <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+        <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+        <li class="nav-item"><a href="#skills" class="nav-link">Programming skills</a></li>
+        <li class="nav-item"><a href="#english" class="nav-link">English level</a></li>
+      </ul>
+    </nav>
+    <div class="container"></div>
   </header>
   <main class = "main">
-    <p>Проверочный текст</p>
+    <div class="container">
+      <section class="section" id="profile">
+        <h1 style="font-style: italic;">
+          Aleksandr Pirozerskiy</h1>
+        <img src="./IMG_1145.JPEG" width="304" height="228" alt="my foto">
+      </section>
+      <section class="section" id="education">
+        <h2 class="section-title">Education</h2>
+        <p>secondary special<p>
+      </section>
+      <section class="section" id="skills">
+        <h2 class="section-title">Programming skills</h2>
+        <p>none</p>
+      </section>
+      <section class="section" id="english">
+        <h2 class="section-title">English level</h2>
+        <p>basic</p>
+    </section>
+    </div>
   </main>
   <footer class = "footer">
-    <p>Проверочный текст</p>
+    <div class="container">
+      <p id="contacts"> Contact:</p>
+      <p style="font-weight: bold"> Email: philka_omut@mail.ru</br>Discord: Aleksandr(@Pirlomyt)</p>
+    </div>
   </footer>
 </body>
 </html>
