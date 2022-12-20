@@ -1,2 +1,3 @@
+# rsschool-cv
 https://Pirlomyt.github.io/rsschool-cv/cv
-https://pirlomyt.github.io/rsschool-cv/index.html
+https://Pirlomyt.github.io/rsschool-cv/
